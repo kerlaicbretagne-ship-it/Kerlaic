@@ -1,0 +1,27 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "La Ferme de Kerlaic",
+    "description": "",
+    "home_page_url": "https://www.kerlaic.com",
+    "feed_url": "https://www.kerlaic.com/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Daniel SOARES"
+    },
+    "items": [
+        {
+            "id": "https://www.kerlaic.com/les-actus-de-kerlaic-2.html",
+            "url": "https://www.kerlaic.com/les-actus-de-kerlaic-2.html",
+            "title": "Le Jardin de Kerlaïc",
+            "summary": "La vie à Kerlaïc est rythmée par les saisons, l'accueil des voyageurs, l'entretien des bois et prairies, le potager...",
+            "content_html": "<p> </p>\n<table style=\"font-size: inherit; width: 118.519%; height: 42px; border-style: hidden;\" border=\"1\">\n<tbody>\n<tr style=\"height: 76.3594px;\">\n<td style=\"width: 19.3128%; height: 76.3594px;\">\n<figure class=\"post__image\"><a href=\"https://www.kerlaic.com/\" ><img loading=\"lazy\" class=\"post__image\" src=\"https://www.kerlaic.com/media/posts/14/Accueil.png\" alt=\"\" width=\"178\" height=\"31\" sizes=\"(max-width: 1920px) 100vw, 1920px\" srcset=\"https://www.kerlaic.com/media/posts/14/responsive/Accueil-xs.png 640w ,https://www.kerlaic.com/media/posts/14/responsive/Accueil-sm.png 768w ,https://www.kerlaic.com/media/posts/14/responsive/Accueil-md.png 1024w ,https://www.kerlaic.com/media/posts/14/responsive/Accueil-lg.png 1366w ,https://www.kerlaic.com/media/posts/14/responsive/Accueil-xl.png 1600w ,https://www.kerlaic.com/media/posts/14/responsive/Accueil-2xl.png 1920w\"></figure></a></p>\n</td>\n<td style=\"width: 19.5498%; height: 76.3594px;\">\n<figure class=\"post__image\"><a href=\"https://www.kerlaic.com/chambre-independante.html\" ><img loading=\"lazy\" class=\"post__image\" src=\"https://www.kerlaic.com/media/posts/14/logo_chambre.png\" alt=\"\" width=\"178\" height=\"31\" sizes=\"(max-width: 1920px) 100vw, 1920px\" srcset=\"https://www.kerlaic.com/media/posts/14/responsive/logo_chambre-xs.png 640w ,https://www.kerlaic.com/media/posts/14/responsive/logo_chambre-sm.png 768w ,https://www.kerlaic.com/media/posts/14/responsive/logo_chambre-md.png 1024w ,https://www.kerlaic.com/media/posts/14/responsive/logo_chambre-lg.png 1366w ,https://www.kerlaic.com/media/posts/14/responsive/logo_chambre-xl.png 1600w ,https://www.kerlaic.com/media/posts/14/responsive/logo_chambre-2xl.png 1920w\"></figure></a></p>\n</td>\n<td style=\"width: 19.6682%; height: 76.3594px;\">\n<figure class=\"post__image\"><a href=\"https://www.kerlaic.com/contacts-et-reservation.html\" ><img loading=\"lazy\" class=\"post__image\" src=\"https://www.kerlaic.com/media/posts/14/reservation.png\" alt=\"\" width=\"178\" height=\"31\" sizes=\"(max-width: 1920px) 100vw, 1920px\" srcset=\"https://www.kerlaic.com/media/posts/14/responsive/reservation-xs.png 640w ,https://www.kerlaic.com/media/posts/14/responsive/reservation-sm.png 768w ,https://www.kerlaic.com/media/posts/14/responsive/reservation-md.png 1024w ,https://www.kerlaic.com/media/posts/14/responsive/reservation-lg.png 1366w ,https://www.kerlaic.com/media/posts/14/responsive/reservation-xl.png 1600w ,https://www.kerlaic.com/media/posts/14/responsive/reservation-2xl.png 1920w\"></figure></a></p>\n</td>\n<td style=\"width: 20.3791%; height: 76.3594px;\">\n<figure class=\"post__image\"><a href=\"https://www.kerlaic.com/quelques-photos-des-alentours.html\" ><img loading=\"lazy\" class=\"post__image\" src=\"https://www.kerlaic.com/media/posts/14/Les-Photos.png\" alt=\"\" width=\"178\" height=\"31\" sizes=\"(max-width: 1920px) 100vw, 1920px\" srcset=\"https://www.kerlaic.com/media/posts/14/responsive/Les-Photos-xs.png 640w ,https://www.kerlaic.com/media/posts/14/responsive/Les-Photos-sm.png 768w ,https://www.kerlaic.com/media/posts/14/responsive/Les-Photos-md.png 1024w ,https://www.kerlaic.com/media/posts/14/responsive/Les-Photos-lg.png 1366w ,https://www.kerlaic.com/media/posts/14/responsive/Les-Photos-xl.png 1600w ,https://www.kerlaic.com/media/posts/14/responsive/Les-Photos-2xl.png 1920w\"></figure></a></p>\n</td>\n<td style=\"width: 20.9716%; height: 76.3594px;\">\n<figure class=\"post__image\"><a href=\"https://www.kerlaic.com/les-actus-de-kerlaic.html\" ><img loading=\"lazy\" class=\"post__image\" src=\"https://www.kerlaic.com/media/posts/14/Bon_plan.png\" alt=\"\" width=\"178\" height=\"31\" sizes=\"(max-width: 1920px) 100vw, 1920px\" srcset=\"https://www.kerlaic.com/media/posts/14/responsive/Bon_plan-xs.png 640w ,https://www.kerlaic.com/media/posts/14/responsive/Bon_plan-sm.png 768w ,https://www.kerlaic.com/media/posts/14/responsive/Bon_plan-md.png 1024w ,https://www.kerlaic.com/media/posts/14/responsive/Bon_plan-lg.png 1366w ,https://www.kerlaic.com/media/posts/14/responsive/Bon_plan-xl.png 1600w ,https://www.kerlaic.com/media/posts/14/responsive/Bon_plan-2xl.png 1920w\"></figure></a><a href=\"https://www.kerlaic.com/\"></a></p>\n</td>\n</tr>\n</tbody>\n</table>\n<p>La vie à Kerlaïc est rythmée par les saisons, l'accueil des voyageurs,  l'entretien des bois et prairies, le potager...</p>",
+            "author": {
+                "name": "Daniel SOARES"
+            },
+            "tags": [
+            ],
+            "date_published": "2026-07-12T16:59:12+02:00",
+            "date_modified": "2026-07-13T12:37:56+02:00"
+        }
+    ]
+}
