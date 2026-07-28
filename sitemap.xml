@@ -5,8 +5,16 @@
 <loc>https://www.kerlaic.com/</loc>
 </url>
 <url>
-<loc>https://www.kerlaic.com/chambre-independante.html</loc>
-<lastmod>2026-07-19T11:04:31+02:00</lastmod>
+<loc>https://www.kerlaic.com/contacts-et-reservation.html</loc>
+<lastmod>2026-07-28T15:47:12+02:00</lastmod>
+</url>
+<url>
+<loc>https://www.kerlaic.com/le-jardin-de-kerlaic.html</loc>
+<lastmod>2026-07-28T15:47:53+02:00</lastmod>
+</url>
+<url>
+<loc>https://www.kerlaic.com/les-chambres.html</loc>
+<lastmod>2026-07-28T15:47:00+02:00</lastmod>
 <image:image>
 <image:loc>https://www.kerlaic.com/media/posts/10/gallery/IMG_0017-3-thumbnail.jpeg</image:loc>
 <image:title><![CDATA[]]></image:title>
@@ -81,16 +89,8 @@
 </image:image>
 </url>
 <url>
-<loc>https://www.kerlaic.com/contacts-et-reservation.html</loc>
-<lastmod>2026-07-19T11:04:44+02:00</lastmod>
-</url>
-<url>
-<loc>https://www.kerlaic.com/les-actus-de-kerlaic-2.html</loc>
-<lastmod>2026-07-14T13:01:59+02:00</lastmod>
-</url>
-<url>
-<loc>https://www.kerlaic.com/les-actus-de-kerlaic.html</loc>
-<lastmod>2026-07-19T11:43:50+02:00</lastmod>
+<loc>https://www.kerlaic.com/les-liens-utiles.html</loc>
+<lastmod>2026-07-28T15:47:34+02:00</lastmod>
 <image:image>
 <image:loc>https://www.kerlaic.com/media/posts/13/logo.jpeg</image:loc>
 <image:title><![CDATA[]]></image:title>
@@ -98,7 +98,7 @@
 </url>
 <url>
 <loc>https://www.kerlaic.com/quelques-photos-des-alentours.html</loc>
-<lastmod>2026-07-14T14:00:59+02:00</lastmod>
+<lastmod>2026-07-28T15:47:26+02:00</lastmod>
 <image:image>
 <image:loc>https://www.kerlaic.com/media/posts/12/dourdu-2.jpeg</image:loc>
 <image:title><![CDATA[Au bout du chemin de la ferme]]></image:title>
